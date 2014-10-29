@@ -1,0 +1,4 @@
+kerrigan
+========
+
+manager front end
